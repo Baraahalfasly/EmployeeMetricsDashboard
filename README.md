@@ -5,4 +5,4 @@ The code also includes steps for plotting charts that display the work hours for
 
 ![Work Hours for Each Worker](output/detailed_work_hours_and_salary.png)
 ![Salary Distribution](output/salary_distribution.png)
-![Work Hours per Person](output/work_hours_per_person.png)
+![Work Hours per Person](output/work_hours_per_person.png) 
