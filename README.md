@@ -3,4 +3,6 @@ This code utilizes Python libraries such as pandas, numpy, matplotlib, and seabo
 The code also includes steps for plotting charts that display the work hours for each worker, with the work hour values shown above each bar, providing a clear overview of the work information. The resulting images are organized within an output folder, making them easily accessible later. This code aims to facilitate data analysis and visualization.
 
 
-![meeting image output](output_image4.png)
+![Work Hours for Each Worker](output/detailed_work_hours_and_salary.png)
+![Salary Distribution](output/salary_distribution.png)
+![Work Hours per Person](output/work_hours_per_person.png)
